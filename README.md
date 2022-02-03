@@ -1,2 +1,2 @@
 # Ship_Performance
-# machine_learning_for_streamflow
+This is a project to predict the performance of fuel comsumption versus speed for ships
